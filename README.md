@@ -1,7 +1,7 @@
 # RealTime-Crypto-Prices
 
 ➡️ Overview :                        
-RealTime-Crypto-Prices is a dynamic web application that displays real-time cryptocurrency prices. Utilizing the CoinGecko API, this application fetches and presents up-to-date prices for popular cryptocurrencies in a visually appealing and responsive format.
+**RealTime-Crypto-Prices** is a dynamic web application that displays real-time cryptocurrency prices. Utilizing the CoinGecko API, this application fetches and presents up-to-date prices for popular cryptocurrencies in a visually appealing and responsive format.
 
 ➡️ Features :                                                                                          
 ◉ Real-Time Data Retrieval: Fetches live cryptocurrency prices for Bitcoin, Ethereum, Ripple, Cardano, Solana, Binance Coin, and Bitcoin Cash.                            
